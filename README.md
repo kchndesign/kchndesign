@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kevinchendesign
-- 👀 I’m interested in product design and web development.
-- 🌱 I’m currently learning React and Node.js
-- 💞️ I’m looking to collaborate on fun projects.
-- 📫 How to reach me 
+- 👋 Hi, I’m Kevin!
+- 👀 I’m a product designer turned full-stack web developer (hence the design in the name)
+- 🌱 I’m currently undertaking a Tech Consultancy course at _nology. 
+- 📫 How to reach me:
 
   Email
   kevin@kchn.com.au
