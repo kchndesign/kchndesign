@@ -7,7 +7,6 @@
     - Node.JS + Express
     - MySQL
 - 🔨 Currently designing and building user-facing features as a full stack developer:
-    - Figma
     - Vue.JS
     - C# / ASP.NET 5+
     - SQL Server
