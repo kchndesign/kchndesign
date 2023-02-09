@@ -1,12 +1,6 @@
 - 👋 Hi, I’m Kevin!
 - 👀 I’m a product designer turned full-stack web developer (hence the design in the name)
-- 🌱 Recently graduated from a full stack development course where I learnt the following technologies:
-    - React
-    - Typescript
-    - Java + Spring MVC, Spring Data JPA
-    - Node.JS + Express
-    - MySQL
-- 🔨 Currently designing and building user-facing features as a full stack developer:
+- 🔨 Helping Retail and B2B companies connect with their customers using these technologies:
     - Vue.JS
     - C# / ASP.NET 5+
     - SQL Server
